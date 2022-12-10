@@ -1,4 +1,5 @@
-// Add your code hereconst url= 'http://localhost:3000/users';
+// Add your code here
+const url= 'http://localhost:3000/users';
 
 function submitData(name,email){
     fetch(url, {
